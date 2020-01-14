@@ -251,7 +251,7 @@ fieldset input[type='password']{
   }
   .contentArea div ul li figure img{
       width: 100%; border-radius: 10px;
-      margin-left: 55px;
+      margin-left: 35px;
   }
   .contentArea div ul li figure figcaption dl{
       padding-top: 15%;
@@ -285,7 +285,7 @@ fieldset input[type='password']{
   }
   .contentArea div ul li figure a:last-of-type{
       text-align: center;
-      left: 90%;
+      left: 85%;
       margin-top: -28%;
   }
 
@@ -464,7 +464,7 @@ fieldset input[type='password']{
   .lookbookWrap ul li.bgimg2,
   .lookbookWrap ul li.bgimg3,
   .lookbookWrap ul li.bgimg4{
-    width: 45%;
+    width: 50%;
     
   }
 
@@ -473,16 +473,16 @@ fieldset input[type='password']{
     margin-top: 5%;
   }
   .lookbookWrap ul li.bgimg2{
-    margin-left: 10%;
-    margin-top: 45%;
+    margin-left: 0;
+    margin-top: 55%;
   }
   .lookbookWrap ul li.bgimg3{
-    margin-top: 85%;
+    margin-top: 110%;
     margin-left: 50%;
   }
   .lookbookWrap ul li.bgimg4{
-    margin-top: 125%;
-    margin-left: 10%;
+    margin-top: 160%;
+    margin-left: 0;
   }
   .lookbookWrap ul li a img{
       width: 100%;
@@ -511,7 +511,7 @@ fieldset input[type='password']{
     }
     .gallery-item#img1,
     .gallery-item#img3{
-      left: 25%;
+      left: 10%;
       margin-top: 30%;
       
     }
