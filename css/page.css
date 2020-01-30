@@ -2,8 +2,10 @@
 
 @media screen and (max-width:767px){
   .bx-wrapper{
-    height: 52%;
+    width: 100%;
+    height: 40%;
   }
+
   div.slideArea{
     position: relative;
   }
@@ -27,8 +29,8 @@
     z-index: 99;
     position: absolute;
     text-align: center;
-    top: 10%;
-      
+    top: 7%;
+    
   }
 
   div.slideArea ul li > *:not(a){
@@ -241,6 +243,9 @@ fieldset input[type='password']{
 
 /*account fin*/
 /*contentArea*/
+  .contentArea{
+    margin-top: -100px;
+  }
   .contentArea div ul{
     height: 300px;
   }
@@ -1435,7 +1440,7 @@ fieldset input[type='password']{
     }
     .contentArea div ul li figure a:last-of-type{
         text-align: center;
-        left: 43%;
+        left: 40%;
         margin-top: 10%;
     }
 
@@ -1464,7 +1469,7 @@ fieldset input[type='password']{
     }
     .contentArea div div .btn_cart{
         position: absolute;
-        left: 30%;
+        left: 28.5%;
         margin-top: 150px;
     }
     /*contentArea left fin*/
